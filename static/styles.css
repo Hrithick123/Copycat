@@ -1,0 +1,39 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    line-height: 1.6;
+}
+
+h1, h2 {
+    color: #333;
+    text-align: center;
+}
+
+form {
+    margin: 20px auto;
+    max-width: 500px;
+    text-align: center;
+}
+
+input[type="file"], input[type="submit"] {
+    margin-top: 10px;
+}
+body {
+    background-color: #f8f9fa;
+}
+
+h1 {
+    color: #2c3e50;
+    font-weight: 600;
+}
+
+.list-group-item {
+    background-color: #ffffff;
+    border-color: #dddddd;
+    font-family: monospace;
+}
+
+pre {
+    font-size: 14px;
+    color: #333333;
+}

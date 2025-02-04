@@ -1,0 +1,42 @@
+Mangayarkarasi_Puraneermai.wav Vs Bowli.wav : Overall Similarity: 85.85%, Pattern Similarity: 18.2%, Swara Similarity: 85.85%
+Pangidam_Puraneermai.wav Vs Bhoopalam.wav : Overall Similarity: 92.36%, Pattern Similarity: 54.32%, Swara Similarity: 92.36%
+Pangidam_Puraneermai.wav Vs Revagupthi.wav : Overall Similarity: 89.73%, Pattern Similarity: 64.91%, Swara Similarity: 89.73%
+Idarinar_Kootrai_Puraneermai.wav Vs Bhoopalam.wav : Overall Similarity: 91.33%, Pattern Similarity: 61.89%, Swara Similarity: 91.33%
+Idarinar_Kootrai_Puraneermai.wav Vs Revagupthi.wav : Overall Similarity: 89.88%, Pattern Similarity: 44.76%, Swara Similarity: 89.88%
+Idarinar_Kootrai_Puraneermai.wav Vs Bowli.wav : Overall Similarity: 76.36%, Pattern Similarity: 36.46%, Swara Similarity: 76.36%
+Nattapadai.wav Vs Gambeeranaatai.wav : Overall Similarity: 71.77%, Pattern Similarity: 20.72%, Swara Similarity: 71.77%
+
+Indalam.wav Vs Mayamalawa Gowlai.mp3 : Overall Similarity: 74.66%, Pattern Similarity: 46.23%, Swara Similarity: 74.66%
+Indalam.wav Vs Nadanamakriyaaa.wav : Overall Similarity: 84.6%, Pattern Similarity: 33.99%, Swara Similarity: 84.6%
+
+Pitha-vocals.mp3 Vs Bowli.wav : Overall Similarity: 38.01%, Pattern Similarity: 29.68%, Swara Similarity: 38.01%
+PITHA_PIRAISUDI_Shi.mp3 Vs raga-mayamalavagowlai-signature.mp3 : Overall Similarity: 83.14%, Pattern Similarity: 43.48%, Swara Similarity: 83.14%
+PITHA_PIRAISUDI_Shi.mp3 Vs Nadanamakriyaaa.wav : Overall Similarity: 87.34%, Pattern Similarity: 65.26%, Swara Similarity: 87.34%
+Sadaiyaa Enumaal.mp3 Vs Nadanamakriyaaa.wav : Overall Similarity: 90.52%, Pattern Similarity: 47.41%, Swara Similarity: 90.52%
+Sadaiyaa Enumaal.mp3 Vs raga-mayamalavagowlai-signature.mp3 : Overall Similarity: 85.42%, Pattern Similarity: 41.49%, Swara Similarity: 85.42%
+Thillai Vaazh Andhanar_vocals.wav Vs Napali Sri Rama_vocals.wav : Overall Similarity: 95.43%, Pattern Similarity: 40.58%, Swara Similarity: 95.43%
+Maathar Pirai.wav Vs Napali Sri Rama_vocals.wav : Overall Similarity: 94.59%, Pattern Similarity: 32.93%, Swara Similarity: 94.59%
+Kolli.wav Vs Napali Sri Rama.wav : Overall Similarity: 90.54%, Pattern Similarity: 46.24%, Swara Similarity: 90.54%
+Napali Sri Rama_vocals.wav Vs nilanan_mada_vocals.wav : Overall Similarity: 61.23%, Pattern Similarity: 45.47%, Swara Similarity: 61.23%
+Re Re Sri rama.wav Vs segment_2 (1)-vocals.mp3 : Overall Similarity: 94.71%, Pattern Similarity: 38.15%, Swara Similarity: 94.71%
+Bhoopalam.wav Vs Puraneermai.wav : Overall Similarity: 83.54%, Pattern Similarity: 54.32%, Swara Similarity: 83.54%
+Bhoopalam.wav Vs Puraneermai.wav : Overall Similarity: 83.54%, Pattern Similarity: 54.32%, Swara Similarity: 83.54%
+Bhoopalam.wav Vs Puraneermai.wav : Overall Similarity: 83.54%, Pattern Similarity: 54.32%, Swara Similarity: 83.54%
+Bhoopalam.wav Vs Puraneermai.wav : Overall Similarity: 83.54%, Pattern Similarity: 54.32%, Swara Similarity: 83.54%
+Bhoopalam.wav Vs Puraneermai.wav : Overall Similarity: 83.54%, Pattern Similarity: 54.32%, Swara Similarity: 83.54%
+Thodudai.mp3 Vs Gambeeranaatai_1.wav.wav : Overall Similarity: 90.04%, Pattern Similarity: 18.3%, Swara Similarity: 90.04%
+Gambeeranaatai_1.wav.wav Vs raga-nattai-signature.mp3 : Overall Similarity: 51.95%, Pattern Similarity: 58.3%, Swara Similarity: 51.95%
+raga-nattai-signature.mp3 Vs Thodudai.mp3 : Overall Similarity: 75.42%, Pattern Similarity: 40.01%, Swara Similarity: 75.42%
+raga-nattai-signature.mp3 Vs Thodudai.mp3 : Overall Similarity: 75.42%, Pattern Similarity: 40.01%, Swara Similarity: 75.42%
+raga-nattai-signature.mp3 Vs Thodudai.mp3 : Overall Similarity: 75.42%, Pattern Similarity: 40.01%, Swara Similarity: 75.42%
+raga-nattai-signature.mp3 Vs Thodudai.mp3 : Overall Similarity: 75.42%, Pattern Similarity: 40.01%, Swara Similarity: 75.42%
+raga-nattai-signature.mp3 Vs Thodudai.mp3 : Overall Similarity: 75.42%, Pattern Similarity: 40.01%, Swara Similarity: 75.42%
+Shree Ganapathi Nee Sevimpa Rare_vocals.wav Vs Paninthavar_vocals.wav : Overall Similarity: 98.0%, Pattern Similarity: 74.0%, Swara Similarity: 98.0%
+Paninthavar_vocals.wav Vs Shree Ganapathi Nee Sevimpa Rare_vocals.wav : Overall Similarity: 87.15%, Pattern Similarity: 74.0%, Swara Similarity: 87.15%
+Shree Ganapathi Nee Sevimpa Rare_vocals.wav Vs Paninthavar_vocals.wav : Overall Similarity: 98.0%, Pattern Similarity: 74.0%, Swara Similarity: 98.0%
+Shree Ganapathi Nee Sevimpa Rare_vocals.wav Vs Paninthavar_vocals.wav : Overall Similarity: 98.0%, Pattern Similarity: 74.0%, Swara Similarity: 98.0%
+Shree Ganapathi Nee Sevimpa Rare_vocals.wav Vs Paninthavar_vocals.wav : Overall Similarity: 98.0%, Pattern Similarity: 74.0%, Swara Similarity: 98.0%
+Paninthavar_vocals.wav Vs Shree Ganapathi Nee Sevimpa Rare_vocals.wav : Overall Similarity: 87.15%, Pattern Similarity: 74.0%, Swara Similarity: 87.15%
+Shree Ganapathi Nee Sevimpa Rare_vocals.wav Vs Paninthavar_vocals.wav : Overall Similarity: 98.0%, Pattern Similarity: 74.0%, Swara Similarity: 98.0%
+Isaiyil Thodanguthamma_vocals.mp3 Vs Paninthavar_vocals.wav : Overall Similarity: 94.82%, Pattern Similarity: 59.17%, Swara Similarity: 94.82%
+Shree Ganapathi Nee Sevimpa Rare_vocals.wav Vs Isaiyil Thodanguthamma_vocals.mp3 : Overall Similarity: 80.17%, Pattern Similarity: 76.9%, Swara Similarity: 80.17%
