@@ -3,10 +3,45 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title> Copycat - Carnatic Music Similarity Analysis </title>
+    <title>Pattern Comparison - Carnatic Music Similarity Analysis</title>
     <!-- Include Bootstrap CSS -->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet">
     <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+    <style>
+        /* Ensure the page takes full height */
+        html, body {
+            height: 100%;
+            display: flex;
+            flex-direction: column;
+        }
+
+        /* Main container takes all available space */
+        .container {
+            flex: 1;
+        }
+
+        /* Footer styling */
+        footer {
+            background-color: #06b6d4; /* Cyan */
+            color: white;
+            text-align: center;
+            padding: 1rem;
+            width: 100%;
+            position: relative;
+            bottom: 0;
+            left: 0;
+        }
+
+        /* Make footer text and link responsive */
+        footer a {
+            text-decoration: underline;
+            color: #fbbf24; /* Amber */
+        }
+
+        footer a:hover {
+            color: #ff9800; /* Darker Amber */
+        }
+    </style>
 </head>
 <body>
     <div class="container mt-5">
@@ -34,4 +69,9 @@
     <!-- Include Bootstrap JS (Optional for any interactive elements) -->
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js"></script>
 </body>
+<footer class="bg-primary text-white text-center py-3 mt-auto">
+        <p>
+            Designed and Developed By <a href="https://hrithick123.github.io/Hrithickfolio/" target="_blank" class="underline hover:text-amber-300">Hrithick</a>
+        </p>
+    </footer>
 </html>
