@@ -182,5 +182,4 @@ if __name__ == '__main__':
     # Ensure proper permissions for upload directories on startup
     os.chmod(UPLOAD_FOLDER, 0o777)
     os.chmod(STATIC_FOLDER, 0o777)
-    port = int(os.environ.get("PORT",5000))
-    app.run(host="0.0.0.0", port=port)
+    app.run(host="0.0.0.0", port=int(os.environ.get("PORT", 8080)))
